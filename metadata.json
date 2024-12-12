@@ -3,8 +3,5 @@
   "symbol": "TSGG",
   "description": "TSGG coin built on the Solana blockchain.",
   "image": "https://raw.githubusercontent.com/tsggcoinofficial/tsggcoin/refs/heads/main/logo.png",
-  "extensions": {
-    "website": "https://tsgg.xyz",
-    "twitter": "https://x.com/tsggcoin"
-  }
+  "attributes": []
 }
