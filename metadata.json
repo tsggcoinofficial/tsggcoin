@@ -1,12 +1,24 @@
 {
     "name": "TSGaming Guild Coin",
     "symbol": "TSGG",
-    "description": "TSGG coin is a cutting-edge cryptocurrency token built on the Solana blockchain.",
+    "description": "TSGG coin is a cutting-edge cryptocurrency token built on the Solana blockchain, designed to support gaming communities with speed, scalability, and efficiency.",
     "image": "https://raw.githubusercontent.com/tsggcoinofficial/tsggcoin/refs/heads/main/logo.png",
     "attributes": [
-      {
-        "trait_type": "Item",
-        "value": "Developer Portal"
-      }
+        {
+            "trait_type": "Category",
+            "value": "Cryptocurrency"
+        },
+        {
+            "trait_type": "Blockchain",
+            "value": "Solana"
+        },
+        {
+            "trait_type": "Purpose",
+            "value": "Gaming Guild Support"
+        },
+        {
+            "trait_type": "Version",
+            "value": "1.0"
+        }
     ]
 }
