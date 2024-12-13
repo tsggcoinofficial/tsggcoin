@@ -2,5 +2,6 @@
   "name": "TSGaming Guild Coin",
   "symbol": "TSGG",
   "description": "TSGG coin built on the Solana blockchain.",
-  "image": "https://raw.githubusercontent.com/tsggcoinofficial/tsggcoin/main/logo.png"
+  "image": "https://raw.githubusercontent.com/tsggcoinofficial/tsggcoin/main/logo.png",
+  "attributes": []
 }
