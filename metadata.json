@@ -7,6 +7,10 @@
   "attributes": [],
   "additionalMetadata": [
     {
+      "key": "description",
+      "value": "TSGG is the token for the TSGaming Guild ecosystem, empowering gamers with staking rewards, tournaments, and community-driven events."
+    },
+    {
       "key": "website",
       "value": "https://tsgamingguild.com"
     },
@@ -25,6 +29,18 @@
     {
       "key": "facebook",
       "value": "https://facebook.com/tsgamingguild"
+    },
+    {
+      "key": "youtube",
+      "value": "https://www.youtube.com/@tsggcoin"
+    },
+    {
+      "key": "tiktok",
+      "value": "https://www.tiktok.com/@tsggcoin"
+    },
+    {
+      "key": "instagram",
+      "value": "https://www.instagram.com/tsggcoin/"
     }
   ]
 }
