@@ -1,30 +1,50 @@
 {
   "name": "TSGaming Guild Coin",
   "symbol": "TSGG",
+  "description": "TSGG coin built on the Solana blockchain.",
+  "image": "https://raw.githubusercontent.com/tsggcoinofficial/tsggcoin/main/logo.png",
+  "attributes": []
+}
+
+{
+  "name": "TSGaming Guild",
+  "symbol": "TSGG",
   "description": "TSGG is the token for the TSGaming Guild ecosystem, empowering gamers with rewards, tournaments, and community-driven events.",
   "image": "https://raw.githubusercontent.com/tsggcoinofficial/tsggcoin/main/logo.png",
-  "uri": "https://raw.githubusercontent.com/tsggcoinofficial/tsggcoin/main/metadata.json",
-  "external_url": "https://tsgamingguild.com",
+  "uri": "https://raw.githubusercontent.com/tsggcoinofficial/tsggcoin/main/newmetadata.json",
+  "external_url": "https://tsgg.xyz",
   "additionalMetadata": [
     {
       "key": "website",
-      "value": "https://tsgamingguild.com"
+      "value": "https://tsgg.xyz"
     },
     {
-      "key": "twitter",
-      "value": "https://twitter.com/tsgamingguild"
+      "key": "x",
+      "value": "https://x.com/tsggcoin"
     },
     {
       "key": "discord",
-      "value": "https://discord.gg/tsgamingguild"
+      "value": "https://discord.gg/vmgW8jeZPY"
     },
     {
       "key": "telegram",
-      "value": "https://t.me/tsgamingguild"
+      "value": "https://t.me/tsggcoin"
     },
     {
       "key": "facebook",
-      "value": "https://facebook.com/tsgamingguild"
+      "value": "https://www.facebook.com/tsggcoin"
+    },
+    {
+      "key": "youtube",
+      "value": "https://www.youtube.com/@tsggcoin"
+    },
+    {
+      "key": "tiktok",
+      "value": "https://www.tiktok.com/@tsggcoin"
+    },
+    {
+      "key": "instagram",
+      "value": "https://www.instagram.com/tsggcoin/"
     }
   ]
 }
