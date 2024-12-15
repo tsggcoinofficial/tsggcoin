@@ -1,8 +1,30 @@
 {
   "name": "TSGaming Guild",
   "symbol": "TSGG",
-  "description": "TSGG is the token for the TSGaming Guild ecosystem, empowering gamers with staking rewards, tournaments, and community-driven events.",
+  "description": "TSGG is the token for the TSGaming Guild ecosystem, empowering gamers with rewards, tournaments, and community-driven events.",
   "image": "https://raw.githubusercontent.com/tsggcoinofficial/tsggcoin/main/logo.png",
+  "external_url": "https://tsgamingguild.com",
   "attributes": [],
-  "external_url": "https://tsgg.xyz"
+  "additionalMetadata": [
+    {
+      "key": "website",
+      "value": "https://tsgamingguild.com"
+    },
+    {
+      "key": "twitter",
+      "value": "https://twitter.com/tsgamingguild"
+    },
+    {
+      "key": "discord",
+      "value": "https://discord.gg/tsgamingguild"
+    },
+    {
+      "key": "telegram",
+      "value": "https://t.me/tsgamingguild"
+    },
+    {
+      "key": "facebook",
+      "value": "https://facebook.com/tsgamingguild"
+    }
+  ]
 }
