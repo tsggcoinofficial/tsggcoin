@@ -1,7 +1,8 @@
 {
   "name": "TSGaming Guild Coin",
   "symbol": "TSGG",
-  "description": "TSGG coin built on the Solana blockchain.",
+  "description": "TSGG is the token for the TSGaming Guild ecosystem, empowering gamers with rewards, tournaments, and community-driven events.",
   "image": "https://raw.githubusercontent.com/tsggcoinofficial/tsggcoin/main/logo.png",
-  "attributes": []
+  "attributes": [],
+  "external_url": "https://tsgg.xyz"
 }
