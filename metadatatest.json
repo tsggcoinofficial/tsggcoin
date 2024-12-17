@@ -1,0 +1,10 @@
+{
+  "name": "TS Gaming Guild",
+  "symbol": "TSGG",
+  "description": "TSGG is the token for the TS Gaming Guild ecosystem, empowering gamers with rewards, tournaments, and community-driven events.",
+  "image": "https://raw.githubusercontent.com/tsggcoinofficial/tsggcoin/main/logo.png",
+  "extensions": {
+    "website": "https://tsgg.xyz",
+    "twitter": "https://x.com/tsggcoin"
+  }
+}
