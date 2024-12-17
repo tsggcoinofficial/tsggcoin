@@ -48,3 +48,20 @@
     }
   ]
 }
+
+
+{
+  "name": "TSGaming Guild",
+  "symbol": "TSGG",
+  "description": "The official TSGaming Guild token.",
+  "image": "https://gateway.pinata.cloud/ipfs/<your-image-hash>",
+  "attributes": [
+    { "trait_type": "Community", "value": "TSGG" },
+    { "trait_type": "Token Type", "value": "Memecoin" }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "YOUR_WALLET_ADDRESS", "share": 100 }
+    ]
+  }
+}
