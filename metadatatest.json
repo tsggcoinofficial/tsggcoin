@@ -3,14 +3,8 @@
   "symbol": "TSGG",
   "description": "The official token of TS Gaming Guild.",
   "image": "https://raw.githubusercontent.com/tsggcoinofficial/tsggcoin/main/logo.png",
-  "attributes": [
-    { "trait_type": "Community", "value": "TSGG" },
-    { "trait_type": "Token Type", "value": "Utility Token" }
-  ],
-  "properties": {
-    "creators": [
-      { "address": "6pfoDjJqYWdiXhq4cGkHVdSLFNXZ4wLjQ2jrCiwujWf4", "share": 100 }
-    ]
+  "extensions": {
+    "twitter": "https://x.com/WEAREM3M3_",
+    "telegram": "https://t.me/WEAREM3M3"
   }
 }
-
