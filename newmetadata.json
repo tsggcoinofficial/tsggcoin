@@ -53,8 +53,8 @@
 {
   "name": "TSGaming Guild",
   "symbol": "TSGG",
-  "description": "The official TSGaming Guild token.",
-  "image": "https://gateway.pinata.cloud/ipfs/<your-image-hash>",
+  "description": "TSGG is the token for the TSGaming Guild ecosystem, empowering gamers with rewards, tournaments, and community-driven events.",
+  "image": "https://raw.githubusercontent.com/tsggcoinofficial/tsggcoin/main/logo.png",
   "attributes": [
     { "trait_type": "Community", "value": "TSGG" },
     { "trait_type": "Token Type", "value": "Memecoin" }
