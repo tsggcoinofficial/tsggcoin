@@ -1,10 +1,16 @@
 {
   "name": "TS Gaming Guild",
   "symbol": "TSGG",
-  "description": "TSGG is the token for the TS Gaming Guild ecosystem, empowering gamers with rewards, tournaments, and community-driven events.",
+  "description": "The official token of TS Gaming Guild.",
   "image": "https://raw.githubusercontent.com/tsggcoinofficial/tsggcoin/main/logo.png",
-  "extensions": {
-    "website": "https://tsgg.xyz",
-    "twitter": "https://x.com/tsggcoin"
+  "attributes": [
+    { "trait_type": "Community", "value": "TSGG" },
+    { "trait_type": "Token Type", "value": "Utility Token" }
+  ],
+  "properties": {
+    "creators": [
+      { "address": "6pfoDjJqYWdiXhq4cGkHVdSLFNXZ4wLjQ2jrCiwujWf4", "share": 100 }
+    ]
   }
 }
+
