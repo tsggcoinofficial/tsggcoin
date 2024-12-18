@@ -3,13 +3,13 @@
   "symbol": "TSGG",
   "description": "TSGaming Guild Official Token",
   "seller_fee_basis_points": 0,
-  "image": "https://example.com/image.png",
+  "image": "https://raw.githubusercontent.com/tsggcoinofficial/tsggcoin/main/logo.png",
   "attributes": [],
   "external_url": "https://tsgg.xyz",
   "properties": {
     "files": [
       {
-        "uri": "https://example.com/image.png",
+        "uri": "https://raw.githubusercontent.com/tsggcoinofficial/tsggcoin/main/logo.png",
         "type": "image/png"
       }
     ],
