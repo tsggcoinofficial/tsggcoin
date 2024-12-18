@@ -1,10 +1,18 @@
 {
-  "name": "M3M3",
-  "symbol": "M3M3",
-  "description": "A New Kind Of Memecoin",
-  "image": "https://gateway.pinata.cloud/ipfs/bafkreibfu4mivnd2w7khp35m6g2gpe7lzruiv52v2xs3m3vxh76ildqcye",
-  "extensions": {
-    "twitter": "https://x.com/WEAREM3M3_",
-    "telegram": "https://t.me/WEAREM3M3"
+  "name": "TSGaming Guild",
+  "symbol": "TSGG",
+  "description": "TSGaming Guild Official Token",
+  "seller_fee_basis_points": 0,
+  "image": "https://example.com/image.png",
+  "attributes": [],
+  "external_url": "https://tsgg.xyz",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://example.com/image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
   }
 }
