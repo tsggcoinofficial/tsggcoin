@@ -1,18 +1,7 @@
 {
-  "name": "TSGaming Guild",
+  "name": "TS Gaming Guild",
   "symbol": "TSGG",
-  "description": "TSGaming Guild Official Token",
-  "seller_fee_basis_points": 0,
+  "description": "Laro para sa pangarap, Kita para sa kinabukasan",
   "image": "https://raw.githubusercontent.com/tsggcoinofficial/tsggcoin/main/logo.png",
-  "attributes": [],
-  "external_url": "https://tsgg.xyz",
-  "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/tsggcoinofficial/tsggcoin/main/logo.png",
-        "type": "image/png"
-      }
-    ],
-    "category": "image"
-  }
+  "attributes": []
 }
