@@ -1,0 +1,42 @@
+{
+  "name": "TS Gaming Guild",
+  "symbol": "TSGG",
+  "description": "TSGG coin is the token for the TSGaming Guild ecosystem, empowering gamers with rewards, tournaments, and community-driven events.",
+  "image": "https://raw.githubusercontent.com/tsggcoinofficial/tsggcoin/main/logo.png",
+  "external_url": "https://tsgg.xyz",
+  "attributes": [],
+  "additionalMetadata": [
+    {
+      "key": "website",
+      "value": "https://tsgg.xyz"
+    },
+    {
+      "key": "x",
+      "value": "https://x.com/tsggcoin"
+    },
+    {
+      "key": "discord",
+      "value": "https://discord.gg/vmgW8jeZPY"
+    },
+    {
+      "key": "telegram",
+      "value": "https://t.me/tsggcoin"
+    },
+    {
+      "key": "facebook",
+      "value": "https://www.facebook.com/tsggcoin"
+    },
+    {
+      "key": "youtube",
+      "value": "https://www.youtube.com/@tsggcoin"
+    },
+    {
+      "key": "tiktok",
+      "value": "https://www.tiktok.com/@tsggcoin"
+    },
+    {
+      "key": "instagram",
+      "value": "https://www.instagram.com/tsggcoin/"
+    }
+  ]
+}
